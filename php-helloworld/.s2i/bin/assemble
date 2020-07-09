@@ -1,9 +1,0 @@
-#!/bin/bash
-
-
-echo "before msg"
-
-/usr/libexec/s2i/assemble
-
-echo "After completing everything
-
